@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sambhavi298/DSA/tree/master/0078-subsets) |
 | [0560-subarray-sum-equals-k](https://github.com/sambhavi298/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
@@ -22,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sambhavi298/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sambhavi298/DSA/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sambhavi298/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
